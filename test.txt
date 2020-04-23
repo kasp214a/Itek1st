@@ -1,6 +1,10 @@
 test document
 <<<<<<< HEAD
+<<<<<<< HEAD
 123456789
+=======
+This line was written by the great Jamie Ann Seckinger, German ambassador, Part-time madman, future ruler of the moon.
+>>>>>>> 6512c3c8df1fc2534f97878f56bfd941442738d4
 =======
 this is a new line to bee pushed 
 >>>>>>> 9ae11b659cb749bfbcc6c03d053829f0e7ba5e42
