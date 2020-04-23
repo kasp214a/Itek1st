@@ -1,2 +1,6 @@
 test document
+<<<<<<< HEAD
 123456789
+=======
+this is a new line to bee pushed 
+>>>>>>> 9ae11b659cb749bfbcc6c03d053829f0e7ba5e42
